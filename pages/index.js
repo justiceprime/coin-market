@@ -485,7 +485,6 @@ export default function Home(props) {
       <table className='table'>
         <thead>
           <tr>
-            <th>No.</th>
             <th>Symbol</th>
             <th>24H Change</th>
             <th>Price</th>
